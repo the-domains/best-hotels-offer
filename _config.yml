@@ -1,7 +1,7 @@
 name: Best Hotels Offer
 favicon: null
-layout_spectrum: 0.5229859037790447
-typography_spectrum: 0.5314018425997347
+layout_spectrum: 1
+typography_spectrum: 1
 title: Best Hotels Offer
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.18648585421033204
-  lightness: 0.6544758286327124
-  saturation: 0.08584950165823102
-  rhythmicContrast: 0.8454894162714481
+  brandStrength: 0.5
+  lightness: 0.9375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
