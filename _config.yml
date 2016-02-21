@@ -1,0 +1,28 @@
+name: Best Hotels Offer
+favicon: null
+layout_spectrum: 0.5229859037790447
+typography_spectrum: 0.5314018425997347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18648585421033204
+  lightness: 0.6544758286327124
+  saturation: 0.08584950165823102
+  rhythmicContrast: 0.8454894162714481
+purpose: []
