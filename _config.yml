@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: BestHotelsOffer.com
+  email: cs@besthotelsoffer.com
+  url: www.besthotelsoffer.com
 name: Best Hotels Offer
 cta:
   domain: null
