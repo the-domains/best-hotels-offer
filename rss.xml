@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Best Hotels Offer]]></title>
         <description><![CDATA[Best Hotels Offer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://besthotelsoffer.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 21:32:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Aug 2016 21:26:09 GMT</lastBuildDate>
+        <atom:link href="http://besthotelsoffer.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test </p>]]></description>
-            <link>undefined7888fba4-98eb-4b14-814d-11aa091f3cb0/index.html</link>
+            <link>http://besthotelsoffer.com/7888fba4-98eb-4b14-814d-11aa091f3cb0/index.html</link>
             <guid isPermaLink="false">7888fba4-98eb-4b14-814d-11aa091f3cb0</guid>
-            <pubDate>Sun, 21 Feb 2016 21:29:40 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2016 21:26:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
