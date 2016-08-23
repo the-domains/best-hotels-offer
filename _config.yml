@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: about us
+    id: 7888fba4-98eb-4b14-814d-11aa091f3cb0
+    type: content
 favicon: null
 title: Best Hotels Offer
 purpose: []
