@@ -32,6 +32,9 @@ navigation:
   - name: Home
     id: 7888fba4-98eb-4b14-814d-11aa091f3cb0
     type: content
+  - name: Home
+    id: 840709ca-d3db-4e50-a4dd-a65ea449fbe8
+    type: content
 favicon: null
 title: Best Hotels Offer
 purpose: []
